@@ -1,0 +1,3 @@
+[submodule "sofa-boot-samples"]
+	path = sofa-boot-samples
+	url = https://github.com/sofastack-guides/sofa-boot-guides
